@@ -2,7 +2,7 @@
   "name": "php-pack",
   "displayName": "PHP Extension Pack",
   "description": "Everything you need for PHP development",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "xdebug",
   "engines": {
     "vscode": "^1.26.0"
