@@ -3,7 +3,7 @@
   "displayName": "PHP Extension Pack",
   "description": "Everything you need for PHP development",
   "version": "1.0.2",
-  "publisher": "felixfbecker",
+  "publisher": "xdebug",
   "engines": {
     "vscode": "^1.26.0"
   },
@@ -16,17 +16,17 @@
     "theme": "dark"
   },
   "icon": "logo.png",
-  "homepage": "https://github.com/felixfbecker/vscode-php-pack/blob/master/README.md",
+  "homepage": "https://github.com/zobo/vscode-php-pack/blob/main/README.md",
   "bugs": {
-    "url": "https://github.com/felixfbecker/vscode-php-pack/issues"
+    "url": "https://github.com/zobo/vscode-php-pack/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/felixfbecker/vscode-php-pack"
+    "url": "https://github.com/zobo/vscode-php-pack"
   },
   "extensionPack": [
-    "felixfbecker.php-debug",
-    "felixfbecker.php-intellisense"
+    "xdebug.php-debug",
+    "zobo.php-intellisense"
   ]
 }
