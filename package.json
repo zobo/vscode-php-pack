@@ -27,6 +27,7 @@
   },
   "extensionPack": [
     "xdebug.php-debug",
-    "zobo.php-intellisense"
+    "zobo.php-intellisense",
+    "damms005.devdb",
   ]
 }
